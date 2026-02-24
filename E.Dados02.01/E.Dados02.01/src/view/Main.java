@@ -8,7 +8,7 @@ public class Main {
 		
 		Scanner sc = new Scanner (System.in);
 		
-		System.out.println ("MULTIPLICAÇÃO USANDO RECURSIVIDADE \nDigite um número para A: ");
+		System.out.println ("MULTIPLICAÇÃO USANDO RECURSIVIDADE");
 		
 		int A = 0, B = 0;
 		boolean valido = false;
